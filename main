@@ -8,14 +8,14 @@
   <title>Slot Thailand 🎃 Situs Online Server Gacor Depo 5k Via Qris</title>
   <link rel="icon" type="image/x-icon" href="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" />
   <link rel="apple-touch-icon" href="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png">
-  <link rel="canonical" href="https://hemingway-hotel.ru/en/main/">
-  <link rel="amphtml" href="https://enmain.pages.dev/" />
+  <link rel="canonical" href="https://hemingway-hotel.ru/">
+  <link rel="amphtml" href="https://hemingway-d68.pages.dev/" />
   <link as='image' href='https://authconfig.lol/images/2026/02/18/lk39-slot-thailand.jpg' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://www.googletagmanager.`com' rel='preconnect'>
   <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
-  <link crossorigin href='https://enmain.pages.dev/' rel='preconnect'>
+  <link crossorigin href='https://hemingway-d68.pages.dev/' rel='preconnect'>
   <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
   <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
@@ -48,11 +48,12 @@
      trackResources: true,
      trackLongTasks: true,
      defaultPrivacyLevel: 'mask-user-input',
-     allowedTracingUrls: ['https://hemingway-hotel.ru/en/main/', 'https://hemingway-hotel.ru/en/main/']
+     allowedTracingUrls: ['https://hemingway-hotel.ru/', 'https://hemingway-hotel.ru/']
     });
    })
   </script>
   <meta content='F9EF52AA90C6458518CEE48CF835744E' name='msvalidate.01'>
+  <meta name="google-site-verification" content="t0FVlcv_aE02srtq-bWw7XdVRLnmBBTDgboCOEBGmyE" />
   <meta name="google-site-verification" content="Vg0Xq9yp_7QFFKb6t74cVSEKFCF_qlhrQq-OfUn-kAM" />
   <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
   <meta content='teepublic' name='cloudinary_cloud_name'>
@@ -64,7 +65,7 @@
   <meta property="og:price:amount" content="5.000">
   <meta property="og:price:currency" content="IDR">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://hemingway-hotel.ru/en/main/">
+  <meta property="og:url" content="https://hemingway-hotel.ru/">
   <meta property="og:image" content="https://authconfig.lol/images/2026/02/18/lk39-slot-thailand.jpg">
   <meta property="og:site_name" content="TeePublic">
   <meta property="product:price:amount" content="25.00">
@@ -84,7 +85,7 @@
     "request__controller": "product_pages",
     "request__action": "show",
     "request__domain": "teepublic.com",
-    "request__base_url": "https://hemingway-hotel.ru/en/main/",
+    "request__base_url": "https://hemingway-hotel.ru/",
     "request__ab_tests": {
      "con-3051-pasf": "default"
     },
@@ -105,7 +106,7 @@
     "design__variant_id": "19G79A8C",
     "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic Slot depo 5k\",\"Color\":\"Red\"}",
     "design__mock_image": "https://authconfig.lol/images/2026/02/18/lk39-slot-thailand.jpg",
-    "design__url": "https://hemingway-hotel.ru/en/main/",
+    "design__url": "https://hemingway-hotel.ru/",
     "design__canvas": "Slot depo 5k",
     "design__canvas_canonical_name": "Slot depo 5k",
     "design__design_title": "Slot Thailand adalah situs online dengan server gacor yang ringan dan stbail. Menyediakan banyak game seru dengan peluang menang tinggi.",
@@ -217,10 +218,10 @@
     </div>
    </div>
    <div class="vc-header-logo">
-    <a aria-label="Home Link" title="Home" href="https://hemingway-hotel.ru/en/main/" class="link vc-header-logo__wrapper link--1 link--default">
+    <a aria-label="Home Link" title="Home" href="https://hemingway-hotel.ru/" class="link vc-header-logo__wrapper link--1 link--default">
      <span class='link__content'>
       <div class="header-mini__logo" bis_skin_checked="1">
-       <a href="https://hemingway-hotel.ru/en/main/">
+       <a href="https://hemingway-hotel.ru/">
         <img alt="Slot Thailand" src="https://imgsaya3.io/images/2026/02/14/SLOT-THAILAND.gif" style="height:100px; width:auto; display:block;">
        </a>
       </div>
@@ -230,7 +231,7 @@
    </div>
    <div class='vc-header__search-container'>
     <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://hemingway-hotel.ru/en/main/" accept-charset="UTF-8" method="post">
+     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://hemingway-hotel.ru/" accept-charset="UTF-8" method="post">
       <input type="hidden" name="_method" value="patch" autocomplete="off" />
       <input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
       <div class='m-header__search-field-container'>
@@ -308,49 +309,49 @@
       <div class='m-explore-nav__tab-content'>
        </span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://hemingway-hotel.ru/en/main/" title="Lebaran SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Lebaran" data-href="https://hemingway-hotel.ru/" title="Lebaran SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT THAILND</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://hemingway-hotel.ru/en/main/" title="Music SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://hemingway-hotel.ru/" title="Music SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT ONLINE</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://hemingway-hotel.ru/en/main/" title="Sport SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://hemingway-hotel.ru/" title="Sport SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT DEPO 5K</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://hemingway-hotel.ru/en/main/" title="Movie SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://hemingway-hotel.ru/" title="Movie SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT QRIS</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://hemingway-hotel.ru/en/main/" title="Vintage SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://hemingway-hotel.ru/" title="Vintage SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT 5K</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://hemingway-hotel.ru/en/main/" title="Animal SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://hemingway-hotel.ru/" title="Animal SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT MIN DEPO 5K</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://hemingway-hotel.ru/en/main/" title="Television SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://hemingway-hotel.ru/" title="Television SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
         <span class='link__content'>SLOT QRIS 5K</span>
        </a>
-       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://hemingway-hotel.ru/en/main/" title="Funny SLOT THAILND" href="https://hemingway-hotel.ru/en/main/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+       <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://hemingway-hotel.ru/" title="Funny SLOT THAILND" href="https://hemingway-hotel.ru/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
          <img src="https://imgsaya3.io/images/2026/02/02/NEW-DRAGON-TODAY-02.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
         </span>
@@ -403,8 +404,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://enmain.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://enmain.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://hemingway-d68.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://hemingway-d68.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -432,7 +433,7 @@
         "name": "Slot Thailand 🎃 Situs Online Server Gacor Depo 5k Via Qris",
         "description": "Slot Thailand adalah situs online dengan server gacor yang ringan dan stbail. Menyediakan banyak game seru dengan peluang menang tinggi.",
         "category": "SLOT THAILND",
-        "url": "https://hemingway-hotel.ru/en/main/",
+        "url": "https://hemingway-hotel.ru/",
         "sku": "74165272D1V19G79A8C",
         "image": {
          "@type": "ImageObject",
@@ -614,14 +615,14 @@
                </div>
               </div>
               <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls' data-glide-el='controls'>
-               <a data-id="0" href="https://hemingway-hotel.ru/en/main/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
+               <a data-id="0" href="https://hemingway-hotel.ru/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
                   <img alt='Slot Thailand 🎃 Situs Online Server Gacor Depo 5k Via Qris by Hey siriusly' class='mockup' loading='lazy' src='https://authconfig.lol/images/2026/02/18/lk39-slot-thailand.jpg'>
                  </picture>
                 </span>
                </a>
-               <a data-id="1" href="https://hemingway-hotel.ru/en/main/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
+               <a data-id="1" href="https://hemingway-hotel.ru/" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                 <span class='link__content'>
                  <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
                   <img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://authconfig.lol/images/2026/02/18/lk39-slot-thailand.jpg'>
@@ -645,8 +646,8 @@
              </div>
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
-              <a href="https://enmain.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-              <a href="https://enmain.pages.dev/" class="btn-x">LOGIN DISINI</a>
+              <a href="https://hemingway-d68.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+              <a href="https://hemingway-d68.pages.dev/" class="btn-x">LOGIN DISINI</a>
               <style>
                .btn-x {
                 display: inline-block;
@@ -818,7 +819,7 @@
               </span>
              </button>
              <div class='tp-accordion__content' data-utilities--reveal-target='content'>
-              <p>Pemain menyebutnya gacor karena pola kemenangan terasa konsisten, server responsif, dan pengalaman modal kecil tetap bisa membaca ritme permainan dengan baik. <a href=https://hemingway-hotel.ru/en/main/ class='link link__cta link__cta--on-light link--default' target='_blank'>
+              <p>Pemain menyebutnya gacor karena pola kemenangan terasa konsisten, server responsif, dan pengalaman modal kecil tetap bisa membaca ritme permainan dengan baik. <a href=https://hemingway-hotel.ru/ class='link link__cta link__cta--on-light link--default' target='_blank'>
                 <span class='link__content'>Slot Thailand</span>
                </a>
               </p>
@@ -833,7 +834,7 @@
              </span>
             </button>
             <div class='tp-accordion__content' data-utilities--reveal-target='content'>
-             <p>Modal 5k via Qris bisa dimulai dengan taruhan kecil untuk membaca pola server, lalu meningkat perlahan saat ritme kemenangan mulai konsisten. Strategi ini aman untuk menghindari kerugian cepat.<a href=https://hemingway-hotel.ru/en/main/ class='link link__cta link__cta--on-light link--default' target='_blank'>
+             <p>Modal 5k via Qris bisa dimulai dengan taruhan kecil untuk membaca pola server, lalu meningkat perlahan saat ritme kemenangan mulai konsisten. Strategi ini aman untuk menghindari kerugian cepat.<a href=https://hemingway-hotel.ru/ class='link link__cta link__cta--on-light link--default' target='_blank'>
                <span class='link__content'>Slot Thailand</span>
               </a>
              </p>
@@ -1055,28 +1056,28 @@
             <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
             <nav class='m-design__additional-info-list'>
              <div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim">
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT THAILND </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT ONLINE </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT DEPO 5K </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SITUS SLOT DEPO 5K </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT MIN DEPO 5K </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT QRIS </span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT 5K</span>
               </a>
-              <a href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default">
+              <a href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default">
                <span class='link__content'> SLOT GACOR </span>
               </a>
              </div>
@@ -1091,7 +1092,7 @@
            <div class='jsSocial'>
             <ul class='m-social-share'>
              <li>
-              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/en/main/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+              <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1100,7 +1101,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/en/main/" class="link gtmFbProductShare facebook link--1 link--default">
+              <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/" class="link gtmFbProductShare facebook link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1109,7 +1110,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Linktree" target="_blank" href="https://hemingway-hotel.ru/en/main/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+              <a aria-label="Share to Linktree" target="_blank" href="https://hemingway-hotel.ru/" class="link gtmLinktreeProductShare linktree link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1118,7 +1119,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/en/main/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+              <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://hemingway-hotel.ru/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1127,7 +1128,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Reddit" target="_blank" href="https://hemingway-hotel.ru/en/main/" class="link gtmRedditProductShare reddit link--1 link--default">
+              <a aria-label="Share to Reddit" target="_blank" href="https://hemingway-hotel.ru/" class="link gtmRedditProductShare reddit link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1136,7 +1137,7 @@
               </a>
              </li>
              <li>
-              <a aria-label="Share to Tumblr" target="_blank" href="https://hemingway-hotel.ru/en/main/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+              <a aria-label="Share to Tumblr" target="_blank" href="https://hemingway-hotel.ru/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium">
                  <img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false">
@@ -1194,7 +1195,7 @@
               <p class='m-footer__guarantee-subtext'> 100% Free Exchanges. </p>
              </div>
              <p class='m-footer__guarantee-link'>
-              <a target="_blank" href="https://hemingway-hotel.ru/en/main/" class="link link__cta link__cta--on-dark link--default">
+              <a target="_blank" href="https://hemingway-hotel.ru/" class="link link__cta link__cta--on-dark link--default">
                <span class='link__content'> Slot depo 5k </span>
               </a>
              </p>
@@ -1211,16 +1212,16 @@
                <a data-gtm-footer-link-text="Create" style="--animation-order: " href="/contact" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Contact Us </span>
                </a>
-               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Coupon Codes </span>
                </a>
-               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> FAQ </span>
                </a>
-               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Free Shipping </span>
                </a>
-               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Refunds &amp; Returns </span>
                </a>
                <a data-gtm-footer-link-text="Shipping Info" style="--animation-order: " href="/shipping" class="link gtmFooterLink link-collection__link link--1 link--default">
@@ -1239,22 +1240,22 @@
                <a data-gtm-footer-link-text="About Us" style="--animation-order: " href="/about" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> About Us </span>
                </a>
-               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Accessibility </span>
                </a>
-               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Create a Dashery Store </span>
                </a>
-               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Careers </span>
                </a>
-               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Hire an Artist </span>
                </a>
-               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Social Responsibility </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Reviews </span>
                </a>
               </div>
@@ -1264,22 +1265,22 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> All Designs </span>
                </a>
-               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Content Directory </span>
                </a>
-               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Featured Artists </span>
                </a>
-               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Designers </span>
                </a>
-               <a data-gtm-footer-link-text="Newest Slot depo 5k" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Newest Slot depo 5k" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Newest Slot depo 5k </span>
                </a>
-               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Tag Directory </span>
                </a>
               </div>
@@ -1289,13 +1290,13 @@
              <div class="link-collection__body">
               <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
               <div class="link-collection__content">
-               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Artist Signup </span>
                </a>
                <a data-gtm-footer-link-text="Design Guide" style="--animation-order: " href="https://assets.teepublic.com/assets/pdfs/designing-for-dtg-061ba741bd403ab1a5d84d0ed3ce584bae150e47068f0a275f72e64e8b577189.pdf" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> Design Guide </span>
                </a>
-               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link-collection__link link--1 link--default">
+               <a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://hemingway-hotel.ru/" class="link gtmFooterLink link-collection__link link--1 link--default">
                 <span class='link__content'> TeePublic Blog </span>
                </a>
               </div>
@@ -1306,7 +1307,7 @@
             <h4 class='m-footer__social-links-header'>Follow Us</h4>
             <ul class='m-footer__social-links'>
              <li>
-              <a data-gtm-footer-link-text="Facebook" target="_blank" href="https://hemingway-hotel.ru/en/main/" class="link gtmFooterLink link--1 link--default">
+              <a data-gtm-footer-link-text="Facebook" target="_blank" href="https://hemingway-hotel.ru/" class="link gtmFooterLink link--1 link--default">
                <span class='link__content'>
                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-orange-800">
                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1540,7 +1541,7 @@
              <h4>Your Cart is empty...</h4>
              <p>Discover something you'll love!</p>
              <div class='m-tray-cart__body-links'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1580,7 +1581,7 @@
                </span>
                <span class='link__content'> food </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1588,7 +1589,7 @@
                </span>
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1604,7 +1605,7 @@
                </span>
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1612,7 +1613,7 @@
                </span>
                <span class='link__content'> sports </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1620,7 +1621,7 @@
                </span>
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://hemingway-hotel.ru/en/main/" href="https://hemingway-hotel.ru/en/main/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://hemingway-hotel.ru/" href="https://hemingway-hotel.ru/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true">
                  <path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path>
@@ -1991,31 +1992,31 @@
             <div class="m-tray-shop__popular-topics">
              <h3>Browse All Topics</h3>
              <div class='m-tray-shop__popular-topics-content'>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://hemingway-hotel.ru/en/main/" title="Funny" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://hemingway-hotel.ru/" title="Funny" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> funny </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://hemingway-hotel.ru/en/main/" title="Music" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://hemingway-hotel.ru/" title="Music" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> music </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="anime" data-href="/Slot depo 5k/anime" title="Anime" href="/Slot depo 5k/anime" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> anime </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://hemingway-hotel.ru/en/main/" title="Movies" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://hemingway-hotel.ru/" title="Movies" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> movies </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://hemingway-hotel.ru/en/main/" title="Television" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://hemingway-hotel.ru/" title="Television" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> television </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://hemingway-hotel.ru/en/main/" title="Sports" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://hemingway-hotel.ru/" title="Sports" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sports </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sci-fi" data-href="/Slot depo 5k/sci-fi" title="Sci-Fi" href="/Slot depo 5k/sci-fi" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> sci-fi </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://hemingway-hotel.ru/en/main/" title="Vintage" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://hemingway-hotel.ru/" title="Vintage" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> vintage </span>
               </a>
-              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://hemingway-hotel.ru/en/main/" title="Animals" href="https://hemingway-hotel.ru/en/main/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+              <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://hemingway-hotel.ru/" title="Animals" href="https://hemingway-hotel.ru/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                <span class='link__content'> animals </span>
               </a>
               <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="drinks" data-href="/Slot depo 5k/drinks" title="Drinks" href="/Slot depo 5k/drinks" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
